@@ -89,6 +89,13 @@ struct ContentView: View {
                 Button("Sepia Tone") { setFilter(CIFilter.sepiaTone() )}
                 Button("Unsharp Mask") { setFilter(CIFilter.unsharpMask() )}
                 Button("Vignette") { setFilter(CIFilter.vignette() )}
+
+                //New
+                Button("Color Invert") { setFilter(CIFilter.colorInvert()) }
+                Button("Twirl Distortion") { setFilter(CIFilter.twirlDistortion()) }
+                Button("Bloom") { setFilter(CIFilter.bloom() )} 
+
+
                 Button("Cancel", role: .cancel) { }
             }
         }
@@ -111,6 +118,11 @@ struct ContentView: View {
 
     func applyProcessing() {
         let inputKeys = currentFilter.inputKeys
+
+        //New
+        if inputKeys.contains(kCIInputRadiusKey) { currentFilter.setValue(filterRadius * 100, forKey: kCIInputRadiusKey) }
+        if inputKeys.contains(kCIInputCenterKey) { currentFilter.setValue(CIVector(x: inputImage.extent.size.width / 2, y: inputImage.extent.size.height / 2), forKey: kCIInputCenterKey) }
+
 
         if inputKeys.contains(kCIInputIntensityKey) { currentFilter.setValue(filterIntensity, forKey: kCIInputIntensityKey) }
         if inputKeys.contains(kCIInputRadiusKey) { currentFilter.setValue(filterIntensity * 200, forKey: kCIInputRadiusKey) }
