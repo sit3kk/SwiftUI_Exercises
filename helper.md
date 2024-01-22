@@ -1,32 +1,57 @@
-## Czasy teraźniejsze:
+## Present Tenses:
 
-- **Present Simple** - używamy go do wyrażania czynności powtarzających się, rutyn, nawyków, sytuacji stałych, faktów i powszechnie znanych prawd oraz rozkładów. (określenia czasu: always, never, often, usually, everyday, sometimes, on Mondays, every week)
+- **Present Simple** - We use it to express actions that repeat, routines, habits, permanent situations, facts, commonly known truths, and schedules. (time expressions: always, never, often, usually, every day, sometimes, on Mondays, every week)
 
-- **Present Continuous** - stosujemy go do opisywania czynności, które dzieją się w momencie mówienia o nich, stanów przejściowych, konkretnych planów dotyczących przyszłości oraz czynności tymczasowych. (określenia czasu: now, at the moment, right now, at present, today, tomorrow)
+  Structure: subject + base form of the verb
 
-- **Present Perfect** - używamy go do opisywania czynności, które dopiero co się zakończyły, czynności, które mają skutki w teraźniejszości oraz czynności, które rozpoczęły się w przeszłości i trwają do teraz. (określenia czasu: since, yet, for, just, already)
+- **Present Continuous** - We use it to describe actions happening at the moment of speaking, temporary states, specific future plans, and temporary actions. (time expressions: now, at the moment, right now, at present, today, tomorrow)
 
-- **Present Perfect Continuous** - stosujemy go do opisywania czynności, które rozpoczęły się w przeszłości i trwają do teraz, a my chcemy skupić się na czasie ich trwania. (określenia czasu: since, yet, for, just, already)
+  Structure: subject + am/is/are + present participle (verb + -ing)
 
-## Czasy przeszłe:
+- **Present Perfect** - We use it to describe actions that have just finished, actions with current results, and actions that started in the past and continue into the present. (time expressions: since, yet, for, just, already)
 
-- **Past Simple** - używamy go do opisywania czynności, które zakończyły się w przeszłości w określonym czasie. (określenia czasu: yesterday, five years ago, last week, two days ago, last summer)
+  Structure: subject + have/has + past participle
 
-- **Past Continuous** - stosujemy go do opisywania dłuższych czynności w przeszłości, które zostały przerwane przez krótkie czynności, opisu sytuacji w tle oraz czynności wykonywanych w określonym czasie w przeszłości. (określenia czasu: while, when)
+- **Present Perfect Continuous** - We use it to describe actions that started in the past and continue into the present, emphasizing the duration of the actions. (time expressions: since, yet, for, just, already)
 
-- **Past Perfect** - używamy go do opisywania czynności w przeszłości, które wydarzyły się wcześniej niż inne czynności w przeszłości. (określenia czasu: already, before, by the time, after)
+  Structure: subject + have/has + been + present participle (verb + -ing)
 
-- **Past Perfect Continuous** - stosujemy go do opisywania dłuższych czynności w przeszłości, które trwały przed innymi czynnościami. (określenia czasu: since, for)
+## Past Tenses:
 
-## Czasy przyszłe:
+- **Past Simple** - We use it to describe actions that finished in the past at a specific time. (time expressions: yesterday, five years ago, last week, two days ago, last summer)
 
-- **Future Simple** - używamy go do wyrażania decyzji o przyszłości podejmowanych w danej chwili, wydarzeń przewidywanych przez nas, oferowania lub składania obietnic. (określenia czasu: tomorrow, soon, next week, in the future)
+  Structure: subject + past simple verb
 
-- **Future Continuous** - stosujemy go do opisywania czynności ciągłych, które będą trwać przez jakiś czas w przyszłości. (określenia czasu: tomorrow, soon, in the future)
+- **Past Continuous** - We use it to describe longer actions in the past that were interrupted by shorter actions, background descriptions, and actions happening at a specific time in the past. (time expressions: while, when)
 
-- **Future Perfect** - używamy go do opisywania czynności, które będą zakończone przed jakimś punktem w przyszłości. (określenia czasu: by the time, before, until)
+  Structure: subject + was/were + present participle (verb + -ing)
 
-- **Future Perfect Continuous** - stosujemy go do opisywania długich, niedokonanych czynności, które zakończą się przed jakimś punktem w przyszłości. (określenia czasu: by the time, for, by tomorrow, by next week)
+- **Past Perfect** - We use it to describe actions in the past that happened before other past actions. (time expressions: already, before, by the time, after)
+
+  Structure: subject + had + past participle
+
+- **Past Perfect Continuous** - We use it to describe longer actions in the past that had been ongoing before other past actions. (time expressions: since, for)
+
+  Structure: subject + had + been + present participle (verb + -ing)
+
+## Future Tenses:
+
+- **Future Simple** - We use it to express decisions about the future made at the moment of speaking, predictions, offers, or promises. (time expressions: tomorrow, soon, next week, in the future)
+
+  Structure: subject + will + base form of the verb
+
+- **Future Continuous** - We use it to describe ongoing actions in the future that will happen for a specific duration. (time expressions: tomorrow, soon, in the future)
+
+  Structure: subject + will + be + present participle (verb + -ing)
+
+- **Future Perfect** - We use it to describe actions in the future that will be completed before a specific point in time. (time expressions: by the time, before, until)
+
+  Structure: subject + will + have + past participle
+
+- **Future Perfect Continuous** - We use it to describe ongoing actions in the future that will be ongoing up to a specific point in time. (time expressions: by the time, for, by tomorrow, by next week)
+
+  Structure: subject + will + have been + present participle (verb + -ing)
+
 
 # English Conditional Sentences
 
