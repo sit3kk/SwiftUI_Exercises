@@ -28,3 +28,23 @@
 
 - **Future Perfect Continuous** - stosujemy go do opisywania długich, niedokonanych czynności, które zakończą się przed jakimś punktem w przyszłości. (określenia czasu: by the time, for, by tomorrow, by next week)
 
+# English Conditional Sentences
+
+## Zero Conditional:
+- (if + present simple, ... present simple)
+- If you heat water to 100 degrees, it boils.
+
+## First Conditional:
+- (if + present simple, ... will + infinitive)
+- If it rains tomorrow, we'll go to the cinema.
+
+## Second Conditional:
+- (if + past simple, ... would + infinitive)
+- If I had a lot of money, I would travel around the world.
+
+## Third Conditional:
+- (if + past perfect, ... would + have + past participle)
+- If I had gone to bed early, I would have caught the train.
+
+.
+
