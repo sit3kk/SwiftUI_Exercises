@@ -71,3 +71,111 @@
 - (if + past perfect, ... would + have + past participle)
 - If I had gone to bed early, I would have caught the train.
 
+
+# Indirect or Reported Speech
+
+When converting from direct to indirect speech, the tense of the verbs typically shift back into the past. Here are the common changes:
+
+## Tense Changes
+
+- **Simple Present to Simple Past**
+  - "I go to school every day." → "He said (that) he went to school every day."
+  
+- **Simple Past to Past Perfect**
+  - "I went to school every day." → "He said (that) he had gone to school every day."
+  
+- **Present Perfect to Past Perfect**
+  - "I have gone to school every day." → "He said (that) he had gone to school every day."
+  
+- **Present Progressive to Past Progressive**
+  - "I am going to school every day." → "He said (that) he was going to school every day."
+  
+- **Past Progressive to Past Perfect Progressive**
+  - "I was going to school every day." → "He said (that) he had been going to school every day."
+  
+- **Future (will) to Conditional (would)**
+  - "I will go to school every day." → "He said (that) he would go to school every day."
+  
+- **Imperatives to Infinitive**
+  - "Go to school every day." → "He said to go to school every day."
+
+## Question and Modal Changes
+
+- **Yes/No Questions use 'if' or 'whether'**
+  - "Do you go to school every day?" → "He asked if I went to school every day."
+  
+- **WH-Questions use the WH-word**
+  - "Where do you go to school?" → "He asked where I went to school."
+  
+- **Modals change as follows:**
+  - "I can go to school." → "He said (that) he could go to school."
+  - "I may go to school." → "He said (that) he might go to school."
+  - "I must go to school." → "He said (that) he had to go to school."
+  - "I should go to school." → "He said (that) he should go to school."
+
+## Exceptions
+
+- When using verbs like 'says', 'has said', 'was saying', 'will say', tenses may not change.
+  - "He says, 'I go to school.'" → "He says (that) he goes to school."
+
+- The modals 'might', 'ought to', and 'have to' typically do not change.
+
+## Other Reporting Verbs
+
+- Besides 'said', verbs like 'ask', 'report', 'tell', 'announce', 'suggest', and 'inquire' can introduce indirect speech. Use them appropriately as they are not interchangeable.
+
+
+
+# Understanding Passive Voice in English
+
+## The Basics:
+
+- **Active Voice**: The subject performs the action.
+  - *Example*: "I drank two cups of coffee."
+- **Passive Voice**: The action is performed upon the subject.
+  - *Example*: "Two cups of coffee were drunk."
+
+## Creating Passive Voice:
+
+1. Use the correct tense of the verb "to be."
+2. Add the past participle of the main verb.
+3. For regular verbs, add 'ed' to the infinitive. Irregular verbs vary.
+
+## Tense Examples:
+
+| Tense                  | Active                    | Passive                         |
+|------------------------|---------------------------|---------------------------------|
+| Present Simple         | I make a cake.            | A cake is made (by me).         |
+| Present Continuous     | I am making a cake.       | A cake is being made (by me).   |
+| Past Simple            | I made a cake.            | A cake was made (by me).        |
+| Past Continuous        | I was making a cake.      | A cake was being made (by me).  |
+| Present Perfect        | I have made a cake.       | A cake has been made (by me).   |
+| Pres. Perf. Continuous | I have been making a cake.| A cake has been being made (by me). |
+| Past Perfect           | I had made a cake.        | A cake had been made (by me).   |
+| Future Simple          | I will make a cake.       | A cake will be made (by me).    |
+| Future Perfect         | I will have made a cake.  | A cake will have been made (by me). |
+
+## Verbs with Two Objects:
+
+- **Active**: "He gave me the book."
+- **Passive**: "I was given the book (by him)." / "The book was given to me (by him)."
+
+## Passive in Subordinate Clauses:
+
+- **Active**: "I thought that Mary had kissed John."
+- **Passive**: "I thought that John had been kissed by Mary."
+
+## When to Use Passive:
+
+1. To change the focus of the sentence.
+2. When the doer is unknown, unimportant, obvious, or general.
+3. In factual or scientific writing.
+4. In formal writing to avoid using "someone."
+5. To place new information at the end for style.
+6. When the subject is very long for natural construction.
+
+### Practice Exercises:
+
+- Try converting active sentences to passive.
+- Write sentences focusing on the action rather than the doer.
+
