@@ -220,3 +220,45 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Work hand in glove - Pracować ramię w ramię, bardzo ściśle współpracować
 - Work fingers to the bone - Urobić sobie ręce po łokcie, bardzo ciężko pracować
 - Dirty work - Brudna robota
+
+
+# Usage of "Wish" and "If Only"
+
+## Present Wishes
+- **Structure:** Wish/If Only + Past Simple
+- **Use:** Wishing the present situation was different.
+- **Example:** "I wish I knew her."
+
+## Past Regrets
+- **Structure:** Wish/If Only + Past Perfect
+- **Use:** Expressing regret about past actions or situations.
+- **Example:** "I wish I had studied harder."
+
+## Future or Hypothetical Situations
+- **Structure:** Wish/If Only + would + infinitive
+- **Use:** Desiring a change in behavior or a hypothetical situation in the future.
+- **Example:** "I wish he would arrive on time."
+
+## Additional Structures
+- **'It’s Time' + Past Simple:** Suggesting it is time to do something.
+- **'Would Rather' + Past Simple:** Preferring one option over another.
+- **'As If/As Though' + Past Simple/Past Perfect:** Describing something unreal or imaginary.
+- **'Suppose/Supposing/What If' + Past:** Considering hypothetical situations.
+
+
+# Understanding "Used To," "Be Used To," and "Get Used To"
+
+## "Used To"
+- **Meaning:** Indicates a habit or a state that was true in the past but not anymore.
+- **Example:** "I used to play football in high school."
+
+## "Be Used To"
+- **Meaning:** Describes being accustomed to a habit or a situation.
+- **Structure:** [subject] + be (am/is/are/was/were) used to + [noun/gerund]
+- **Example:** "She is used to waking up early."
+
+## "Get Used To"
+- **Meaning:** The process of becoming accustomed to a new situation or habit.
+- **Structure:** [subject] + get (gets/got/getting) used to + [noun/gerund]
+- **Example:** "He is getting used to the new software."
+
