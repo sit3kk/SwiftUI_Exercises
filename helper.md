@@ -179,3 +179,44 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Try converting active sentences to passive.
 - Write sentences focusing on the action rather than the doer.
 
+**Polish Words:**
+- Semantics - Semantyka
+- Stimuli - Bodźce
+- Connotation - Konotacja
+- Facilitate - Ułatwiać
+- Variable - Zmienna
+- Animosity - Animozja
+- Exponentially - Wykładniczo
+- Perceptual - Percepcyjny
+- Cloud - Chmurzyć (czasownik)
+- Mush - Błoto, papka
+
+**English Words:**
+- Pundit - Ekspert, znawca
+- Distracted - Rozproszony
+- Brag - Chwalić się
+- Coherent - Spójny, zrozumiały
+- Pontificate - Wygłaszać naukowe mądrości, pouczać
+- Condescending - Wyniosły, protekcjonalny
+- Polarized - Zpolarizowany
+- Devolve - Przemieniać się, przekształcać w coś gorszego
+- Take a cue - Brać przykład
+- Hone - Doskonalić, szlifować
+- In the weeds - Zagubiony w szczegółach
+
+**Idioms and Phrases:**
+- Tricks of the trade - Sztuczki handlowe, tajniki fachu
+- A breadwinner - Żywiciel rodziny
+- Donkey work - Czarna robota
+- Learn the ropes - Nauczyć się podstaw, zaznajomić się z procedurami
+- In the firing line - Na linii ognia, pod ostrzałem krytyki
+- Golden handshake - Złoty uścisk dłoni (odprawa)
+- On the dole - Na zasiłku, na bezrobociu
+- The glass ceiling - Szklany sufit (metafora barier kariery dla kobiet)
+- Play second fiddle - Grać drugie skrzypce, być w cieniu
+- Keep your nose to the grindstone - Ciężko pracować, harować
+- Walking papers - Wymówienie, zwolnienie z pracy
+- Work like a horse - Pracować jak wół
+- Work hand in glove - Pracować ramię w ramię, bardzo ściśle współpracować
+- Work fingers to the bone - Urobić sobie ręce po łokcie, bardzo ciężko pracować
+- Dirty work - Brudna robota
