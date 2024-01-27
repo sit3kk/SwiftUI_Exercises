@@ -1,57 +1,58 @@
-## Present Tenses:
+# English Tenses and Usage
 
-- **Present Simple** - We use it to express actions that repeat, routines, habits, permanent situations, facts, commonly known truths, and schedules. (time expressions: always, never, often, usually, every day, sometimes, on Mondays, every week)
+## Present Tenses 🌞
+
+- **Present Simple** 🔄 - We use it to express actions that repeat, routines, habits, permanent situations, facts, commonly known truths, and schedules. (time expressions: always, never, often, usually, every day, sometimes, on Mondays, every week)
 
   Structure: subject + base form of the verb
 
-- **Present Continuous** - We use it to describe actions happening at the moment of speaking, temporary states, specific future plans, and temporary actions. (time expressions: now, at the moment, right now, at present, today, tomorrow)
+- **Present Continuous** ⏳ - We use it to describe actions happening at the moment of speaking, temporary states, specific future plans, and temporary actions. (time expressions: now, at the moment, right now, at present, today, tomorrow)
 
   Structure: subject + am/is/are + present participle (verb + -ing)
 
-- **Present Perfect** - We use it to describe actions that have just finished, actions with current results, and actions that started in the past and continue into the present. (time expressions: since, yet, for, just, already)
+- **Present Perfect** ✨ - We use it to describe actions that have just finished, actions with current results, and actions that started in the past and continue into the present. (time expressions: since, yet, for, just, already)
 
   Structure: subject + have/has + past participle
 
-- **Present Perfect Continuous** - We use it to describe actions that started in the past and continue into the present, emphasizing the duration of the actions. (time expressions: since, yet, for, just, already)
+- **Present Perfect Continuous** ⏳✨ - We use it to describe actions that started in the past and continue into the present, emphasizing the duration of the actions. (time expressions: since, yet, for, just, already)
 
   Structure: subject + have/has + been + present participle (verb + -ing)
 
-## Past Tenses:
+## Past Tenses 🕰️
 
-- **Past Simple** - We use it to describe actions that finished in the past at a specific time. (time expressions: yesterday, five years ago, last week, two days ago, last summer)
+- **Past Simple** 🕒 - We use it to describe actions that finished in the past at a specific time. (time expressions: yesterday, five years ago, last week, two days ago, last summer)
 
   Structure: subject + past simple verb
 
-- **Past Continuous** - We use it to describe longer actions in the past that were interrupted by shorter actions, background descriptions, and actions happening at a specific time in the past. (time expressions: while, when)
+- **Past Continuous** ⏳ - We use it to describe longer actions in the past that were interrupted by shorter actions, background descriptions, and actions happening at a specific time in the past. (time expressions: while, when)
 
   Structure: subject + was/were + present participle (verb + -ing)
 
-- **Past Perfect** - We use it to describe actions in the past that happened before other past actions. (time expressions: already, before, by the time, after)
+- **Past Perfect** ✨ - We use it to describe actions in the past that happened before other past actions. (time expressions: already, before, by the time, after)
 
   Structure: subject + had + past participle
 
-- **Past Perfect Continuous** - We use it to describe longer actions in the past that had been ongoing before other past actions. (time expressions: since, for)
+- **Past Perfect Continuous** ⏳✨ - We use it to describe longer actions in the past that had been ongoing before other past actions. (time expressions: since, for)
 
   Structure: subject + had + been + present participle (verb + -ing)
 
-## Future Tenses:
+## Future Tenses 🔮
 
-- **Future Simple** - We use it to express decisions about the future made at the moment of speaking, predictions, offers, or promises. (time expressions: tomorrow, soon, next week, in the future)
+- **Future Simple** 🚀 - We use it to express decisions about the future made at the moment of speaking, predictions, offers, or promises. (time expressions: tomorrow, soon, next week, in the future)
 
   Structure: subject + will + base form of the verb
 
-- **Future Continuous** - We use it to describe ongoing actions in the future that will happen for a specific duration. (time expressions: tomorrow, soon, in the future)
+- **Future Continuous** ⏳🚀 - We use it to describe ongoing actions in the future that will happen for a specific duration. (time expressions: tomorrow, soon, in the future)
 
   Structure: subject + will + be + present participle (verb + -ing)
 
-- **Future Perfect** - We use it to describe actions in the future that will be completed before a specific point in time. (time expressions: by the time, before, until)
+- **Future Perfect** 🌟 - We use it to describe actions in the future that will be completed before a specific point in time. (time expressions: by the time, before, until)
 
   Structure: subject + will + have + past participle
 
-- **Future Perfect Continuous** - We use it to describe ongoing actions in the future that will be ongoing up to a specific point in time. (time expressions: by the time, for, by tomorrow, by next week)
+- **Future Perfect Continuous** ⏳🌟 - We use it to describe ongoing actions in the future that will be ongoing up to a specific point in time. (time expressions: by the time, for, by tomorrow, by next week)
 
   Structure: subject + will + have been + present participle (verb + -ing)
-
 
 # English Conditional Sentences
 
@@ -71,7 +72,6 @@
 - (if + past perfect, ... would + have + past participle)
 - If I had gone to bed early, I would have caught the train.
 
-
 # Indirect or Reported Speech
 
 When converting from direct to indirect speech, the tense of the verbs typically shift back into the past. Here are the common changes:
@@ -80,22 +80,22 @@ When converting from direct to indirect speech, the tense of the verbs typically
 
 - **Simple Present to Simple Past**
   - "I go to school every day." → "He said (that) he went to school every day."
-  
+
 - **Simple Past to Past Perfect**
   - "I went to school every day." → "He said (that) he had gone to school every day."
-  
+
 - **Present Perfect to Past Perfect**
   - "I have gone to school every day." → "He said (that) he had gone to school every day."
-  
+
 - **Present Progressive to Past Progressive**
   - "I am going to school every day." → "He said (that) he was going to school every day."
-  
+
 - **Past Progressive to Past Perfect Progressive**
   - "I was going to school every day." → "He said (that) he had been going to school every day."
-  
+
 - **Future (will) to Conditional (would)**
   - "I will go to school every day." → "He said (that) he would go to school every day."
-  
+
 - **Imperatives to Infinitive**
   - "Go to school every day." → "He said to go to school every day."
 
@@ -103,10 +103,10 @@ When converting from direct to indirect speech, the tense of the verbs typically
 
 - **Yes/No Questions use 'if' or 'whether'**
   - "Do you go to school every day?" → "He asked if I went to school every day."
-  
+
 - **WH-Questions use the WH-word**
   - "Where do you go to school?" → "He asked where I went to school."
-  
+
 - **Modals change as follows:**
   - "I can go to school." → "He said (that) he could go to school."
   - "I may go to school." → "He said (that) he might go to school."
@@ -123,8 +123,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 ## Other Reporting Verbs
 
 - Besides 'said', verbs like 'ask', 'report', 'tell', 'announce', 'suggest', and 'inquire' can introduce indirect speech. Use them appropriately as they are not interchangeable.
-
-
 
 # Understanding Passive Voice in English
 
@@ -221,7 +219,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Work fingers to the bone - Urobić sobie ręce po łokcie, bardzo ciężko pracować
 - Dirty work - Brudna robota
 
-
 # Usage of "Wish" and "If Only"
 
 ## Present Wishes
@@ -245,7 +242,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - **'As If/As Though' + Past Simple/Past Perfect:** Describing something unreal or imaginary.
 - **'Suppose/Supposing/What If' + Past:** Considering hypothetical situations.
 
-
 # Understanding "Used To," "Be Used To," and "Get Used To"
 
 ## "Used To"
@@ -261,4 +257,5 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - **Meaning:** The process of becoming accustomed to a new situation or habit.
 - **Structure:** [subject] + get (gets/got/getting) used to + [noun/gerund]
 - **Example:** "He is getting used to the new software."
+
 
