@@ -56,21 +56,30 @@
 
 # English Conditional Sentences
 
-## Zero Conditional:
-- (if + present simple, ... present simple)
-- If you heat water to 100 degrees, it boils.
+### Zero Conditional:
+- *(if + present simple, ... present simple)*
+- *If you heat water to 100 degrees, it boils.*
 
-## First Conditional:
-- (if + present simple, ... will + infinitive)
-- If it rains tomorrow, we'll go to the cinema.
+Zero Conditional is used to express general truths or facts that always happen when a condition is met. It is often used to describe natural phenomena or universal laws.
 
-## Second Conditional:
-- (if + past simple, ... would + infinitive)
-- If I had a lot of money, I would travel around the world.
+### First Conditional:
+- *(if + present simple, ... will + infinitive)*
+- *If it rains tomorrow, we'll go to the cinema.*
 
-## Third Conditional:
-- (if + past perfect, ... would + have + past participle)
-- If I had gone to bed early, I would have caught the train.
+First Conditional is used to talk about situations that are likely to happen if a specific condition is met. It is used to express probable or possible future events.
+
+### Second Conditional:
+- *(if + past simple, ... would + infinitive)*
+- *If I had a lot of money, I would travel around the world.*
+
+Second Conditional is used for hypothetical situations or dreams that are unlikely to happen. It is often used to express wishes or desires.
+
+### Third Conditional:
+- *(if + past perfect, ... would + have + past participle)*
+- *If I had studied harder, I would have passed the exam.*
+
+Third Conditional is used to talk about past situations that didn't happen, and their hypothetical outcomes. It expresses regrets or things that could have been different if the past had been different.
+
 
 # Indirect or Reported Speech
 
@@ -187,7 +196,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Perceptual - Percepcyjny
 - Cloud - Chmurzyć (czasownik)
 - Mush - Błoto, papka
-
 - Pundit - Ekspert, znawca
 - Distracted - Rozproszony
 - Brag - Chwalić się
@@ -199,8 +207,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Take a cue - Brać przykład
 - Hone - Doskonalić, szlifować
 - In the weeds - Zagubiony w szczegółach
-
-**Idioms and Phrases:**
 - Tricks of the trade - Sztuczki handlowe, tajniki fachu
 - A breadwinner - Żywiciel rodziny
 - Donkey work - Czarna robota
@@ -223,7 +229,12 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Affectionate - Czuły
 - Justice - Sprawiedliwość
 - Spacious - Przestronny
-
+- Refusal - Odmowa
+- Attend - Brać udział
+- Necessity - Konieczność
+- Unreliable - Niewiarygodne
+- Likelihood - Prawdopodobieństwo
+- Insist - Nalegać
 
 # Usage of "Wish" and "If Only"
 
