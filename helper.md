@@ -177,7 +177,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Try converting active sentences to passive.
 - Write sentences focusing on the action rather than the doer.
 
-**Polish Words:**
 - Semantics - Semantyka
 - Stimuli - Bodźce
 - Connotation - Konotacja
@@ -189,7 +188,6 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Cloud - Chmurzyć (czasownik)
 - Mush - Błoto, papka
 
-**English Words:**
 - Pundit - Ekspert, znawca
 - Distracted - Rozproszony
 - Brag - Chwalić się
@@ -218,6 +216,14 @@ When converting from direct to indirect speech, the tense of the verbs typically
 - Work hand in glove - Pracować ramię w ramię, bardzo ściśle współpracować
 - Work fingers to the bone - Urobić sobie ręce po łokcie, bardzo ciężko pracować
 - Dirty work - Brudna robota
+- Biased - Stronniczy
+- Courage - Odwaga
+- Encourage - Zachęcać
+- Affection - Sympatia
+- Affectionate - Czuły
+- Justice - Sprawiedliwość
+- Spacious - Przestronny
+
 
 # Usage of "Wish" and "If Only"
 
